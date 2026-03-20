@@ -1,0 +1,9 @@
+{
+  "name": "pioneer-core",
+  "version": "0.1.0",
+  "description": "Essential Pioneer workflows: meeting notes, weekly digests, and status updates.",
+  "author": {
+    "name": "Ryan Ferons",
+    "email": "rferons@wearepioneer.com"
+  }
+}

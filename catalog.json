@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "Pioneer Skills Marketplace — plugin registry",
+  "updated": "2026-03-20",
+  "plugins": [
+    {
+      "name": "pioneer-core",
+      "version": "0.1.0",
+      "description": "Essential Pioneer workflows: meeting notes, weekly digests, and status updates.",
+      "author": "Ryan Ferons",
+      "skills": [
+        "meeting-notes",
+        "weekly-digest",
+        "status-update"
+      ],
+      "file": "plugins/pioneer-core.plugin",
+      "tags": ["productivity", "communication"],
+      "updated": "2026-03-20"
+    }
+  ]
+}

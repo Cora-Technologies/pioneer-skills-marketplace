@@ -1,0 +1,9 @@
+{
+  "name": "plugin-name",
+  "version": "0.1.0",
+  "description": "One sentence describing what this plugin does.",
+  "author": {
+    "name": "Your Name",
+    "email": "you@wearepioneer.com"
+  }
+}
